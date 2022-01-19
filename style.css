@@ -1,0 +1,15 @@
+/*this is not a error css is just being stupid*/
+#snapshotButton{}
+#snapshotButton:hover{
+    background-color: cadetblue;
+}
+canvas {
+    animation-name: idk;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes idk {
+    from{box-shadow: 1px 1px 30px peru;}
+    to{ box-shadow: 1px 1px 30px cadetblue;}
+}
